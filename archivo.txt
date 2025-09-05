@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-import abc
-=======
-chanchito feliz
-chanchito feliz
-abc
->>>>>>> ramab
+nada
